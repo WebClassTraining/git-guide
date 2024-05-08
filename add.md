@@ -60,3 +60,5 @@ or
 ```bash
 git reset --hard
 ```
+
+[Previous](clone.md) | [Next](commit.md)
