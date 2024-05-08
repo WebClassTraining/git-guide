@@ -42,3 +42,5 @@ You can see all of the options with `git init` in [git-scm's documentation](http
 - **Related Terms**: `git clone`, `git status`, `git remote -v`, `git remote add origin <url>`, `git push`, `git push -u origin master`.
 
 For more details, refer to the [git-scm documentation](https://git-scm.com/doc).
+
+[Previous](install.md) | [Next](clone.md)
