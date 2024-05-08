@@ -14,5 +14,6 @@ Example:
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
+```
 
 [Previous](install.md) | [Next](init.md)
