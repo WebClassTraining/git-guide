@@ -40,4 +40,4 @@ Check what branch you are currently on with `git status`. If you are working on 
   - Push your changes to the remote: `git push`
   - Fix the other branch by checking out to that branch, finding what commit it should be pointed to, and using `git reset --hard` to correct the branch pointer
 
-[Previous](pull.md)
+[Previous](pull.md) | [Next](git-style-guide.md)
