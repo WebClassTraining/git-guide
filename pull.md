@@ -57,3 +57,5 @@ To effectively "undo" a `git pull`, you cannot undo the `git fetch` - but you ca
 
 To do this, you will need to `git reset` to the commit you made before you merged. You can find this commit by searching the git ref
 
+[Previous](status.md) | [Next](push.md)
+
