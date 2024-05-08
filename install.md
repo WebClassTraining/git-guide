@@ -50,3 +50,5 @@ Git packages are available using dnf.
 2. Once the command output has completed, you can verify the installation by typing: `git version`.
 
 Note: You can download the proper Git versions and read more about how to install on specific Linux systems, like installing Git on Ubuntu or Fedora, in [git-scm's documentation](https://git-scm.com/doc).
+
+[Previous](README.md) | [Next](init.md)
