@@ -33,3 +33,5 @@ or
 ```bash
 git clone git@github.com:WebClassTraining/git-guide.git
 ```
+
+[Previous](config.md) | [Next](add.md)
