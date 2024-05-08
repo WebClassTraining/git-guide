@@ -6,3 +6,6 @@ There are some operations with `git remote`, like `git remote -v`, that you may 
 
 ```bash
 git remote -v
+
+
+[Previous](commit.md) | [Next](status.md)
