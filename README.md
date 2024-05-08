@@ -14,6 +14,7 @@
 10. [Status](status.md)
 11. [Pull](pull.md)
 12. [Push](push.md)
+13. [Git Style Guide](git-style-guide.md)
 
 
 ## Introduction
