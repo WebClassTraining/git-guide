@@ -8,3 +8,6 @@ Commits are the building blocks of "save points" within Git's version control.
 
 ```bash
 git commit -m "update the README.md with link to contributing guide"
+```
+
+[Previous](add.md) | [Next](remote.md)
